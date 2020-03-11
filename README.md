@@ -4,6 +4,15 @@ This project is related to my submission for the data challenge held by XTX Mark
 
 Correlation One's repository for this challenge: https://github.com/correlation-one/XTXStarterKit.
 
+### Files Overview
+
+1. Market Depth and Order Messages.ipynb
+[python] Transform the data into market depth view, and estimate the sizes of market, limit and cancelled orders.
+
+2. Data Preparation in Q.ipynb
+[q/kdb+] Data preprocessing and part of feature engineering.
+
+
 ### Goal, Data and Metrics
 The goal is to use limit order book data to predict midprice change in ticks ahead
 
