@@ -7,9 +7,11 @@ Correlation One's repository for this challenge: https://github.com/correlation-
 ### Files Overview
 
 1. Market Depth and Order Messages.ipynb
+
 [python] Transform the data into market depth view, and estimate the sizes of market, limit and cancelled orders.
 
 2. Data Preparation in Q.ipynb
+
 [q/kdb+] Data preprocessing and part of feature engineering.
 
 
