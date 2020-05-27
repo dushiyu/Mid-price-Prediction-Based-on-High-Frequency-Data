@@ -14,6 +14,8 @@ Correlation One's repository for this challenge: https://github.com/correlation-
 
 &emsp;&emsp;Data preprocessing and part of feature engineering.
 
+... will upload model selection and hyper parameter tuning later. I used Random Forest on non-overlapping data as winning model. Also tried xgboost, cnn, lstm.
+
 
 ### Goal, Data and Metrics
 The goal is to use limit order book data to predict midprice change in ticks ahead
